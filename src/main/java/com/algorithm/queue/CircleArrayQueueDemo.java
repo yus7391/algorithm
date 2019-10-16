@@ -3,6 +3,8 @@ package com.algorithm.queue;
 import java.util.Scanner;
 
 /**
+ * 数组实现队列
+ *
  * @author yusong
  * @version 1.0
  * @date 2019/10/8 19:38
